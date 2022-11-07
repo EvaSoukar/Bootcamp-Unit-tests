@@ -1,14 +1,15 @@
-# Compiled class file
-*.class
-
-# Log file
+# Logs
+logs
 *.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+​
+# Dependency directories
+node_modules/
+​
+#IntelliJ
+.idea
 
 # Package Files #
 *.jar

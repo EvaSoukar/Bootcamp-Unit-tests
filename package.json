@@ -1,0 +1,14 @@
+{
+  "name": "Bootcamp-Unit-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EvaSoukar/Bootcamp-Unit-tests.git",
+  "author": "EvaSoukar <evosh90@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
